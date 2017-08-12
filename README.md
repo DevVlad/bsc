@@ -33,6 +33,7 @@ yarn start
 ```
 
 ## Run the protractor tests
+Please ensure the app is running in parallel window.
 ```
 npm run pre-protractor
 ```
