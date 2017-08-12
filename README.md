@@ -5,7 +5,7 @@ UI implementation built via [material-ui](http://www.material-ui.com/#/component
 
 
 ## Recommended requirements
-node version 8.2.1
+node version ^7.1.0
 npm version 5.3.0
 or use
 [yarn](https://yarnpkg.com/lang/en/)
