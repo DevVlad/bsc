@@ -1,0 +1,35 @@
+.NotesList {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .Paper {
+        width: 80%;
+        height: 80%;
+
+        .Operations {
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+
+            .IconBtn {
+                z-index: 999;
+            }
+        }
+    }
+
+    .AddNoteButton {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+    }
+
+    .LanguageSelector {
+        position: absolute;
+        left: 20px;
+        top: 20px;
+    }
+}
