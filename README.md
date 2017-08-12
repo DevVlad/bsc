@@ -12,7 +12,7 @@ or use
 
 ## Run the project
 ```
-git clone https://github.com/DevVlad/bsc_testing.git
+git clone https://github.com/DevVlad/bsc.git
 ```
 ```
 cd bsc_testing
