@@ -58,7 +58,7 @@
     "test": "node scripts/test.js --env=jsdom",
     "build-css": "node-sass-chokidar src/ -o src/",
     "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
-    "pre-protractor-test": "./node_modules/protractor/bin/webdriver-manager update",
+    "pre-protractor": "./node_modules/protractor/bin/webdriver-manager update",
     "protractor" : "./node_modules/protractor/bin/protractor protractor.conf.js"
   },
   "jest": {
